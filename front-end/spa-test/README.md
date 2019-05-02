@@ -13,14 +13,14 @@ Build a [Single Page Application](https://en.wikipedia.org/wiki/Single-page_appl
 * First name (input, required, minLenght=5, maxLenght=20)
 * Last name (input, required, minLenght=5, maxLenght=20)
 * Email (input[type=text], required, valid email)
-* Country (dropdown, required) - use the [country-list](https://www.npmjs.com/package/country-list) module to populate the list
+* Country (dropdown, required) - get the country values from a custom or public API
 
 ### Other Requirements
 Please keep the following in mind
 
 * Preferably, use Angular as a Framework, but feel free to depend on any other frameworks/libraries if you prefer
 * If you feel it's suitable, use a state managment library to handle the customers information on the client
-* All the views should have a minimum of responsiveness
+* All the views should have a minimum of responsiveness. Rely on any styles framework if you think it's needed
 * Even though this is a small project, **structure and architecture should mimic a large project**.
 * The code should obviously follow best practises (DRY, maintainable, testable, commenting, etc).
 * We want the code you submit to be written by you, so don’t use skelletons/generators for certain stack and functionality (just use the appropiate cli in case you want a basic app skelleton)

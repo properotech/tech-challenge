@@ -13,7 +13,7 @@ Build a [Single Page Application](https://en.wikipedia.org/wiki/Single-page_appl
 * First name (input, required, minLenght=5, maxLenght=20)
 * Last name (input, required, minLenght=5, maxLenght=20)
 * Email (input[type=text], required, valid email)
-* Country (dropdown, required) - get the country values from an API (either from a public or a custom local one)
+* Country (dropdown, required) - get the country values from an API (either from a public API or a custom local one)
 
 ### Other Requirements
 Please keep the following in mind

@@ -5,21 +5,21 @@ Build a [Single Page Application](https://en.wikipedia.org/wiki/Single-page_appl
 
 ### Functionality
 1. There should be one view where all the customers are listed.
-1. There should be another view to add, delete and edit customers.
-1. The data should be persisted (on the client), and loaded again when the application starts.
-1. Add fitting validation to the different input fields.
+2. There should be another view to add, delete and edit customers.
+3. The data should be persisted (on the client), and loaded again when the application starts. So stopping and restarting the application would not affect the data previously saved
+4. Add fitting validation to the different input fields.
 
 ### Form Fields
 * First name (input, required, minLenght=5, maxLenght=20)
 * Last name (input, required, minLenght=5, maxLenght=20)
 * Email (input[type=text], required, valid email)
-* Country (dropdown, required) - get the country values from a custom or public API
+* Country (dropdown, required) - get the country values from an API (either from a public or a  )
 
 ### Other Requirements
 Please keep the following in mind
 
 * Preferably, use Angular as a Framework, but feel free to depend on any other frameworks/libraries if you prefer
-* If you feel it's suitable, use a state managment library to handle the customers information on the client
+* If you feel it's suitable, use a state managment library to handle the customers information
 * All the views should have a minimum of responsiveness. Rely on any styles framework if you think it's needed
 * Even though this is a small project, **structure and architecture should mimic a large project**.
 * The code should obviously follow best practises (DRY, maintainable, testable, commenting, etc).

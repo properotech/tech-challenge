@@ -13,5 +13,5 @@ Then if "Bank" was picked we would get the "b" and "k" but not "a" and "n" becau
 Please keep the following in mind
 
 * Structure the code so it's easy to explain and understand the process you've followed
-* Use any pattern if you consider it
+* Use any design pattern if you consider it
 * Display the final solution

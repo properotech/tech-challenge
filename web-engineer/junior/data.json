@@ -6,7 +6,7 @@
       "time": 1616079586328,
       "speed": 40,
       "latitude": 51.474579,
-      "longitud": -0.171834,
+      "longitude": -0.171834,
       "traffic_conditions": "LIGHT"
     },
     {
@@ -15,7 +15,7 @@
       "time": 1616079586390,
       "speed": 35,
       "latitude": 51.479015,
-      "longitud": -0.172361,
+      "longitude": -0.172361,
       "traffic_conditions": "MODERATE"
     },
 
@@ -25,7 +25,7 @@
       "time": 1616079586325,
       "speed": 50,
       "latitude": 60.479015,
-      "longitud": -4.172361,
+      "longitude": -4.172361,
       "traffic_conditions": "HEAVY"
     },
     {
@@ -34,7 +34,7 @@
       "time": 1616079586428,
       "speed": 25,
       "latitude": 61.479015,
-      "longitud": -4.272361,
+      "longitude": -4.272361,
       "traffic_conditions": "LIGHT"
     },
     {
@@ -43,7 +43,7 @@
       "time": 1616079586321,
       "speed": 44,
       "latitude": 61.579015,
-      "longitud": -4.252361,
+      "longitude": -4.252361,
       "traffic_conditions": "MODERATE"
     },
 
@@ -53,7 +53,7 @@
       "time": 1616079586329,
       "speed": 62,
       "latitude": 91.579015,
-      "longitud": -5.252361,
+      "longitude": -5.252361,
       "traffic_conditions": "HEAVY"
     },
 
@@ -63,7 +63,7 @@
       "time": 1616079580329,
       "speed": 23,
       "latitude": 88.479015,
-      "longitud": -8.258361,
+      "longitude": -8.258361,
       "traffic_conditions": "LIGHT"
     },
     {
@@ -72,7 +72,7 @@
       "time": 1616074586329,
       "speed": 70,
       "latitude": 88.879015,
-      "longitud": -8.282361,
+      "longitude": -8.282361,
       "traffic_conditions": "HEAVY"
     },
 
@@ -82,7 +82,7 @@
       "time": 1616034586329,
       "speed": 35,
       "latitude": 43.879015,
-      "longitud": -10.292361,
+      "longitude": -10.292361,
       "traffic_conditions": "HEAVY"
     },
 
@@ -92,7 +92,7 @@
       "time": 1616034566329,
       "speed": 56,
       "latitude": 77.877015,
-      "longitud": -14.295361,
+      "longitude": -14.295361,
       "traffic_conditions": "MODERATE"
     },
     {
@@ -101,7 +101,7 @@
       "time": 1616034776329,
       "speed": 67,
       "latitude": 78.879715,
-      "longitud": -14.262361,
+      "longitude": -14.262361,
       "traffic_conditions": "LIGHT"
     },
 
@@ -111,7 +111,7 @@
       "time": 1616034586329,
       "speed": 83,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "HEAVY"
     },
     {
@@ -120,7 +120,7 @@
       "time": 1616034586329,
       "speed": 83,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "LIGHT"
     },
     {
@@ -129,7 +129,7 @@
       "time": 1616034586329,
       "speed": 83,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "MODERATE"
     },
     {
@@ -138,7 +138,7 @@
       "time": 1616034586329,
       "speed": 83,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "MODERATE"
     },
     {
@@ -147,7 +147,7 @@
       "time": 1616034586329,
       "speed": 83,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "HEAVY"
     },
     {
@@ -156,7 +156,7 @@
       "time": 1616034586329,
       "speed": 83,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "MODERATE"
     },
     {
@@ -165,7 +165,7 @@
       "time": 1616034586329,
       "speed": 83,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "HEAVY"
     },
     {
@@ -174,7 +174,7 @@
       "time": 1616034586329,
       "speed": 83,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "HEAVY"
     },
 
@@ -184,7 +184,7 @@
       "time": 1616034586329,
       "speed": 70,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "MODERATE"
     },
     {
@@ -193,7 +193,7 @@
       "time": 1616034586329,
       "speed": 70,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "HEAVY"
     },
     {
@@ -202,7 +202,7 @@
       "time": 1616034586329,
       "speed": 70,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "HEAVY"
     },
     {
@@ -211,7 +211,7 @@
       "time": 1616034586329,
       "speed": 70,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "HEAVY"
     },
     {
@@ -220,7 +220,7 @@
       "time": 1616034586329,
       "speed": 82,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "MODERATE"
     },
 
@@ -230,7 +230,7 @@
       "time": 1616034586329,
       "speed": 82,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "MODERATE"
     },
     {
@@ -239,7 +239,7 @@
       "time": 1616034586329,
       "speed": 82,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "HEAVY"
     },
     {
@@ -248,7 +248,7 @@
       "time": 1616034586329,
       "speed": 82,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "HEAVY"
     },
     {
@@ -257,7 +257,7 @@
       "time": 1616034586329,
       "speed": 82,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "HEAVY"
     },
     {
@@ -266,7 +266,7 @@
       "time": 1616034586329,
       "speed": 82,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "MODERATE"
     },
 
@@ -276,7 +276,7 @@
       "time": 1616034586329,
       "speed": 38,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "MODERATE"
     },
     {
@@ -285,7 +285,7 @@
       "time": 1616034586329,
       "speed": 38,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "MODERATE"
     },
     {
@@ -294,7 +294,7 @@
       "time": 1616034586329,
       "speed": 38,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "MODERATE"
     },
     {
@@ -303,7 +303,7 @@
       "time": 1616034586329,
       "speed": 38,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "MODERATE"
     },
     {
@@ -312,7 +312,7 @@
       "time": 1616034586329,
       "speed": 38,
       "latitude": 49.879915,
-      "longitud": -9.298761,
+      "longitude": -9.298761,
       "traffic_conditions": "MODERATE"
     }
   ]

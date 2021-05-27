@@ -1,0 +1,901 @@
+{
+  "reports": [
+    {
+      "drone_id": 1,
+      "time": 1616079586328,
+      "speed": 40,
+      "latitude": 51.474579,
+      "longitude": -0.171834,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616074586390,
+      "speed": 35,
+      "latitude": 51.473015,
+      "longitude": -0.174361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1613079586390,
+      "speed": 38,
+      "latitude": 53.479015,
+      "longitude": -0.132361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616079586390,
+      "speed": 39,
+      "latitude": 56.479015,
+      "longitude": -0.172351,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616075586390,
+      "speed": 35,
+      "latitude": 52.479015,
+      "longitude": -0.172381,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616079586390,
+      "speed": 35,
+      "latitude": 51.449015,
+      "longitude": -0.172561,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616019586390,
+      "speed": 33,
+      "latitude": 51.475015,
+      "longitude": -0.122361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616079586390,
+      "speed": 35,
+      "latitude": 51.419015,
+      "longitude": -0.171361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616379586390,
+      "speed": 35,
+      "latitude": 51.479015,
+      "longitude": -0.102361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616079585390,
+      "speed": 35,
+      "latitude": 51.479015,
+      "longitude": -0.172391,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 161607952390,
+      "speed": 35,
+      "latitude": 51.409015,
+      "longitude": -0.572361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616079546328,
+      "speed": 40,
+      "latitude": 55.474579,
+      "longitude": -0.771834,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 1,
+      "time": 1614079586390,
+      "speed": 35,
+      "latitude": 56.479015,
+      "longitude": -0.132361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616079586390,
+      "speed": 35,
+      "latitude": 51.779015,
+      "longitude": -0.152361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616579586390,
+      "speed": 35,
+      "latitude": 51.479015,
+      "longitude": -0.112761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1516079586390,
+      "speed": 34,
+      "latitude": 59.479015,
+      "longitude": -0.172361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1716079586390,
+      "speed": 35,
+      "latitude": 51.479010,
+      "longitude": -0.182361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616079586390,
+      "speed": 35,
+      "latitude": 53.474015,
+      "longitude": -0.162361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616079586390,
+      "speed": 35,
+      "latitude": 54.474015,
+      "longitude": -0.102361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1618079586390,
+      "speed": 35,
+      "latitude": 58.479015,
+      "longitude": -0.172361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616079586390,
+      "speed": 35,
+      "latitude": 51.459015,
+      "longitude": -0.175361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616079546390,
+      "speed": 36,
+      "latitude": 51.679015,
+      "longitude": -0.122361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616049586390,
+      "speed": 33,
+      "latitude": 54.474015,
+      "longitude": -0.102361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1618079586690,
+      "speed": 37,
+      "latitude": 58.479015,
+      "longitude": -0.172361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 1616076586390,
+      "speed": 39,
+      "latitude": 51.459015,
+      "longitude": -0.175361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 1,
+      "time": 161607586390,
+      "speed": 36,
+      "latitude": 51.679015,
+      "longitude": -0.122361,
+      "traffic_conditions": "LIGHT"
+    },
+
+    {
+      "drone_id": 2,
+      "time": 1616079588325,
+      "speed": 50,
+      "latitude": 60.179015,
+      "longitude": -4.172361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 2,
+      "time": 1616079586428,
+      "speed": 25,
+      "latitude": 61.479015,
+      "longitude": -4.272361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 2,
+      "time": 1616079586321,
+      "speed": 44,
+      "latitude": 61.579015,
+      "longitude": -4.252361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 2,
+      "time": 1616079586325,
+      "speed": 50,
+      "latitude": 60.179015,
+      "longitude": -4.172361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 2,
+      "time": 1616079586428,
+      "speed": 25,
+      "latitude": 61.479015,
+      "longitude": -4.272361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 2,
+      "time": 1616079586321,
+      "speed": 44,
+      "latitude": 61.570015,
+      "longitude": -4.252361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 2,
+      "time": 1616079586325,
+      "speed": 50,
+      "latitude": 60.179015,
+      "longitude": -4.172361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 2,
+      "time": 1616079586428,
+      "speed": 25,
+      "latitude": 61.379015,
+      "longitude": -5.272361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 2,
+      "time": 1616079586321,
+      "speed": 44,
+      "latitude": 61.579015,
+      "longitude": -8.252361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 2,
+      "time": 1616079586325,
+      "speed": 50,
+      "latitude": 60.179115,
+      "longitude": -4.176361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 2,
+      "time": 1616079586428,
+      "speed": 25,
+      "latitude": 61.479015,
+      "longitude": -4.272361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 2,
+      "time": 1616079586321,
+      "speed": 44,
+      "latitude": 41.579015,
+      "longitude": -4.252361,
+      "traffic_conditions": "LIGHT"
+    },
+
+    {
+      "drone_id": 3,
+      "time": 1616079486329,
+      "speed": 63,
+      "latitude": 91.572015,
+      "longitude": -5.259361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 3,
+      "time": 1316079586329,
+      "speed": 60,
+      "latitude": 93.579015,
+      "longitude": -5.252361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 3,
+      "time": 1516079586329,
+      "speed": 69,
+      "latitude": 91.579115,
+      "longitude": -6.252361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 3,
+      "time": 1616079586329,
+      "speed": 62,
+      "latitude": 91.599015,
+      "longitude": -5.252661,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 3,
+      "time": 1616679586329,
+      "speed": 72,
+      "latitude": 81.579015,
+      "longitude": -5.552361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 3,
+      "time": 1616079586399,
+      "speed": 69,
+      "latitude": 99.579015,
+      "longitude": -6.252361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 3,
+      "time": 1616579556329,
+      "speed": 65,
+      "latitude": 95.579015,
+      "longitude": -5.552361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 3,
+      "time": 1616079586329,
+      "speed": 62,
+      "latitude": 91.579015,
+      "longitude": -5.252361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 3,
+      "time": 1616479546329,
+      "speed": 64,
+      "latitude": 94.579015,
+      "longitude": -5.452361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 3,
+      "time": 1676079586329,
+      "speed": 67,
+      "latitude": 97.579015,
+      "longitude": -5.252761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 3,
+      "time": 1816079586329,
+      "speed": 68,
+      "latitude": 98.579015,
+      "longitude": -5.258361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 3,
+      "time": 1616479546329,
+      "speed": 64,
+      "latitude": 94.579015,
+      "longitude": -5.452361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 3,
+      "time": 1676079586329,
+      "speed": 66,
+      "latitude": 97.579015,
+      "longitude": -5.252761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 3,
+      "time": 1816079586329,
+      "speed": 64,
+      "latitude": 98.579015,
+      "longitude": -5.258361,
+      "traffic_conditions": "HEAVY"
+    },
+
+    {
+      "drone_id": 4,
+      "time": 1116079580329,
+      "speed": 21,
+      "latitude": 58.179015,
+      "longitude": -8.218361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1612074586329,
+      "speed": 72,
+      "latitude": 82.879015,
+      "longitude": -8.222361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1616073580329,
+      "speed": 23,
+      "latitude": 83.479015,
+      "longitude": -8.358361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1646074586329,
+      "speed": 74,
+      "latitude": 84.879015,
+      "longitude": -8.482361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1615079580329,
+      "speed": 25,
+      "latitude": 85.479015,
+      "longitude": -5.258361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1616076586329,
+      "speed": 76,
+      "latitude": 86.879015,
+      "longitude": -8.682361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1617079580329,
+      "speed": 27,
+      "latitude": 87.479015,
+      "longitude": -8.758361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1616874586329,
+      "speed": 78,
+      "latitude": 88.879015,
+      "longitude": -8.882361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1619079580329,
+      "speed": 29,
+      "latitude": 89.479015,
+      "longitude": -9.258361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1610074586329,
+      "speed": 70,
+      "latitude": 80.879015,
+      "longitude": -8.082361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1116079580329,
+      "speed": 21,
+      "latitude": 81.479015,
+      "longitude": -8.158361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1626074586329,
+      "speed": 72,
+      "latitude": 82.879015,
+      "longitude": -8.282261,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1619079580329,
+      "speed": 29,
+      "latitude": 89.479015,
+      "longitude": -9.258361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1610074586329,
+      "speed": 70,
+      "latitude": 80.879015,
+      "longitude": -8.082361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1116079580329,
+      "speed": 21,
+      "latitude": 81.479015,
+      "longitude": -8.158361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1626074586329,
+      "speed": 72,
+      "latitude": 82.879015,
+      "longitude": -8.282261,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1614079580329,
+      "speed": 24,
+      "latitude": 84.479015,
+      "longitude": -9.458361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1615074586329,
+      "speed": 75,
+      "latitude": 85.879015,
+      "longitude": -8.082361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1116055580329,
+      "speed": 25,
+      "latitude": 81.559015,
+      "longitude": -8.558361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1626044586329,
+      "speed": 72,
+      "latitude": 82.855015,
+      "longitude": -8.482261,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1619073380329,
+      "speed": 29,
+      "latitude": 89.339015,
+      "longitude": -9.253361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1610554586329,
+      "speed": 70,
+      "latitude": 80.559015,
+      "longitude": -8.085361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1116076680329,
+      "speed": 21,
+      "latitude": 81.669015,
+      "longitude": -8.156361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1626074586329,
+      "speed": 72,
+      "latitude": 82.879015,
+      "longitude": -8.282261,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1619079580329,
+      "speed": 29,
+      "latitude": 89.479015,
+      "longitude": -9.258361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1610074586329,
+      "speed": 70,
+      "latitude": 80.879015,
+      "longitude": -8.082361,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 4,
+      "time": 1116079580329,
+      "speed": 21,
+      "latitude": 81.479015,
+      "longitude": -8.158361,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 4,
+      "time": 1626074586329,
+      "speed": 72,
+      "latitude": 82.879015,
+      "longitude": -8.282261,
+      "traffic_conditions": "HEAVY"
+    },
+
+    {
+      "drone_id": 5,
+      "time": 1616034586329,
+      "speed": 35,
+      "latitude": 43.879015,
+      "longitude": -10.292361,
+      "traffic_conditions": "HEAVY"
+    },
+
+    {
+      "drone_id": 6,
+      "time": 1616034566329,
+      "speed": 56,
+      "latitude": 77.877015,
+      "longitude": -14.295361,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 6,
+      "time": 1616034776329,
+      "speed": 67,
+      "latitude": 78.879715,
+      "longitude": -14.262361,
+      "traffic_conditions": "LIGHT"
+    },
+
+    {
+      "drone_id": 7,
+      "time": 1616034584329,
+      "speed": 84,
+      "latitude": 49.479915,
+      "longitude": -9.294761,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 7,
+      "time": 1616334586329,
+      "speed": 83,
+      "latitude": 43.879915,
+      "longitude": -9.338761,
+      "traffic_conditions": "LIGHT"
+    },
+    {
+      "drone_id": 7,
+      "time": 1616045586329,
+      "speed": 84,
+      "latitude": 49.459915,
+      "longitude": -9.245761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 7,
+      "time": 1616034566329,
+      "speed": 85,
+      "latitude": 49.8569915,
+      "longitude": -9.2568761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 7,
+      "time": 1616034686329,
+      "speed": 86,
+      "latitude": 49.868915,
+      "longitude": -9.296861,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 7,
+      "time": 1616069586329,
+      "speed": 89,
+      "latitude": 49.899915,
+      "longitude": -9.998761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 7,
+      "time": 2616034586329,
+      "speed": 83,
+      "latitude": 44.879915,
+      "longitude": -9.698761,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 7,
+      "time": 1666034586329,
+      "speed": 63,
+      "latitude": 49.869915,
+      "longitude": -9.898761,
+      "traffic_conditions": "HEAVY"
+    },
+
+    {
+      "drone_id": 8,
+      "time": 16165634586329,
+      "speed": 75,
+      "latitude": 49.8756915,
+      "longitude": -9.5798761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 8,
+      "time": 16160342586329,
+      "speed": 74,
+      "latitude": 43.859915,
+      "longitude": -6.297761,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 8,
+      "time": 1616384586329,
+      "speed": 73,
+      "latitude": 49.8399915,
+      "longitude": -9.2899761,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 8,
+      "time": 1620034586329,
+      "speed": 74,
+      "latitude": 44.869915,
+      "longitude": -9.298661,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 8,
+      "time": 1611934586329,
+      "speed": 62,
+      "latitude": 48.879915,
+      "longitude": -9.298761,
+      "traffic_conditions": "MODERATE"
+    },
+
+    {
+      "drone_id": 9,
+      "time": 1616034544329,
+      "speed": 82,
+      "latitude": 49.479915,
+      "longitude": -9.498761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 9,
+      "time": 1617734586329,
+      "speed": 87,
+      "latitude": 47.779915,
+      "longitude": -7.298761,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 9,
+      "time": 1656034586329,
+      "speed": 82,
+      "latitude": 59.879915,
+      "longitude": -5.298761,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 9,
+      "time": 1616034555329,
+      "speed": 52,
+      "latitude": 47.879915,
+      "longitude": -9.298761,
+      "traffic_conditions": "HEAVY"
+    },
+    {
+      "drone_id": 9,
+      "time": 1633034586329,
+      "speed": 86,
+      "latitude": 46.879915,
+      "longitude": -9.296761,
+      "traffic_conditions": "MODERATE"
+    },
+
+    {
+      "drone_id": 10,
+      "time": 1616033586329,
+      "speed": 48,
+      "latitude": 49.779915,
+      "longitude": -7.298761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 10,
+      "time": 1616104586329,
+      "speed": 40,
+      "latitude": 23.859915,
+      "longitude": -9.268761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 10,
+      "time": 1616534586329,
+      "speed": 37,
+      "latitude": 47.877915,
+      "longitude": -9.277761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 10,
+      "time": 1616034559329,
+      "speed": 39,
+      "latitude": 59.875915,
+      "longitude": -9.265761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 10,
+      "time": 1616034543329,
+      "speed": 367,
+      "latitude": 49.859915,
+      "longitude": -9.276551,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 10,
+      "time": 1616033588329,
+      "speed": 45,
+      "latitude": 49.779915,
+      "longitude": -7.299761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 10,
+      "time": 1616108586329,
+      "speed": 48,
+      "latitude": 23.859815,
+      "longitude": -9.268761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 10,
+      "time": 1616534686329,
+      "speed": 36,
+      "latitude": 47.677915,
+      "longitude": -9.267761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 10,
+      "time": 1616534559329,
+      "speed": 37,
+      "latitude": 59.65915,
+      "longitude": -9.255761,
+      "traffic_conditions": "MODERATE"
+    },
+    {
+      "drone_id": 10,
+      "time": 1616034543329,
+      "speed": 36,
+      "latitude": 46.859915,
+      "longitude": -9.276551,
+      "traffic_conditions": "MODERATE"
+    }
+  ]
+}
